@@ -1,6 +1,6 @@
 # Hyeonseong Kim
 
-**ML Researcher** @ Agency for Defense Development
+**ML Researcher** @ Agency for Defense Development  
 B.S. in Computer Science, Hanyang University (Valedictorian)
 
 ---
